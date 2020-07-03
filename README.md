@@ -1,5 +1,6 @@
-- ### **유튜브 시연 영상 링크**
-  [바로가기](https://www.youtube.com/watch?v=s_UY_t-lfWc&feature=youtu.be)
+- ### **유튜브 시연 영상**
+
+  <a href="https://www.youtube.com/watch?v=s_UY_t-lfWc&feature=youtu.be" target="_blank"> ![logo](https://i.ytimg.com/vi/s_UY_t-lfWc/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBM1737tUXwwCjC2YVNWBNhfEh1Eg)</a>
 
 <br>
 
