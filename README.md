@@ -1,3 +1,8 @@
+- ### **유튜브 시연 영상 링크**
+  [바로가기](https://www.youtube.com/watch?v=s_UY_t-lfWc&feature=youtu.be)
+
+<br>
+
 - ### **사용방법**
 
 > #### 1. 유튜브 접속
@@ -10,7 +15,7 @@
 >
 > #### 5. 아래 Script Code를 복사하고 index의 값만 변경하여 원하는 알람 설정 (0: 전체, 1: 맞춤설정, 2: 없음)
 
-<br><br>
+<br>
 
 - ### **Script Code**
 
@@ -44,8 +49,3 @@ for (var i = 0; i < notify.length; i++) {
 - ### **만든 계기**
 
 > 유튜브에 알람 기능을 한번에 여러개 제어하는 방법이 없어서 javascript를 이용해 만들어보았다.
-
-<br><br>
-
-- ### **유튜브 시연 영상 링크**
-  [바로가기](https://www.youtube.com/watch?v=s_UY_t-lfWc&feature=youtu.be)
